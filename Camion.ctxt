@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Camion
+comment1.params=pMatricula\ pCapacidad\ pConsumo
+comment1.target=Camion(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=int\ darCapacidad()
+comment3.params=
+comment3.target=double\ darConsumo()
+comment4.params=
+comment4.target=java.lang.String\ darMatricula()
+comment5.params=
+comment5.target=int\ darCargaActual()
+comment6.params=pPesoCarga
+comment6.target=boolean\ cargar(int)
+comment7.params=
+comment7.target=void\ descargar()
+numComments=8
